@@ -33,7 +33,7 @@ The dashboard utilizes the following four main charts to answer critical questio
 
 ---
 
-## 🛠️ Technical Skills Showcased (Tableau)
+## 🛠️ Technical Skills Showcased
 
 This project required the application of the following advanced Tableau techniques:
 
